@@ -54,7 +54,7 @@ __진행 미션__
 |체스|[java-chess-step1](https://github.com/jurlring/java-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/java-chess/pull/323)|
 ||[java-chess-step2](https://github.com/jurlring/java-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/java-chess/pull/422)|
 
-__글쓰기 미션__
+__글쓰기__
 - [🖋 우아한테크코스 한 달 생활기](https://github.com/woowacourse/woowa-writing-4/blob/jurlring/Level-1.md)
 
 __블로그 포스팅__
@@ -90,7 +90,7 @@ __진행 미션__
 |장바구니|[jwp-shopping-cart-step1](https://github.com/jurlring/jwp-shopping-cart/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/71)|
 ||[jwp-shopping-cart-step2](https://github.com/jurlring/jwp-shopping-cart/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/163)|
 
-__글쓰기 미션__
+__글쓰기__
 - [🖋우테코에서 찾은 나만의 효과적인 공부법](https://github.com/woowacourse/woowa-writing-4/blob/jurlring/level-2.md)
 
 __블로그 포스팅__
@@ -124,7 +124,7 @@ __데모 영상__
 |3차 데모 동영상|[테스트 전략 & 자동화 테스트 & 로깅 전략 & HTTPS](https://www.youtube.com/watch?v=ZA48GkZuEYY)|
 |4차 데모 동영상|[정적 분석 리포트 & CloudWatch logs 대시보드](https://www.youtube.com/watch?v=QtfPt4WTAKk)|
 
-__글쓰기 미션__
+__글쓰기__
 - [🖋 팀 프로젝트가 나에게 남긴 것](https://github.com/woowacourse/woowa-writing-4/blob/jurlring/Level-3.md)
 
 __블로그 포스팅__
