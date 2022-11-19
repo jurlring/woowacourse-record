@@ -114,6 +114,7 @@ __진행 프로젝트__
 > 공식(공유해줘 너의 지식) : 우테코 크루들을 위한 질문 게시판
 - [공유해줘 너의 지식 서비스](https://gongseek.site/)
 - [공유해줘 너의 지식 깃허브](https://github.com/woowacourse-teams/2022-gong-seek)
+- [공유해줘 너의 지식 데모 사이트](https://sites.google.com/woowahan.com/woowacourse-demo-4th/프로젝트/공식)
 
 __데모 영상__
 
